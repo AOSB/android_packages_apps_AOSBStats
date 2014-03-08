@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="android.romstats"
-    android:versionCode="3"
-    android:versionName="2.0-beta" >
+    android:versionCode="1"
+    android:versionName="1.0" >
 
 	<uses-sdk
-		android:minSdkVersion="9"
-		android:targetSdkVersion="18" />
+		android:minSdkVersion="19"
+		android:targetSdkVersion="19" />
 
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
